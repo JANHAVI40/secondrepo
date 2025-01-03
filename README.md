@@ -1,6 +1,4 @@
 # secondrepo
-author:janhavi
+This is a repository for cloud console.
 <br>
-This is my demo repository
-<br>
-This is a repository for cloud console
+Google cloud console
